@@ -4,7 +4,7 @@ Guía práctica para estructurar argumentos ante audiencias senior: conclusión 
 
 Está pensada para leerse por cuenta propia y para trabajarse en equipo. La sección 26 trae una agenda de taller de 90 minutos.
 
-**Sitio publicado:** https://jonathanvazh.github.io/guia-piramide/
+**Sitio publicado:** https://USUARIO.github.io/REPO/
 
 ## Contenido del repositorio
 
@@ -16,6 +16,7 @@ Está pensada para leerse por cuenta propia y para trabajarse en equipo. La secc
 | `guia.md` | El texto completo en Markdown. Útil para leer en GitHub, editar y ver diferencias entre versiones. |
 | `Guia-Principio-Piramide.pdf` | Versión imprimible. |
 | `Guia-Principio-Piramide.docx` | Versión editable en Word. |
+| `Taller-Principio-Piramide.pptx` | Deck de 17 láminas para facilitar el taller de 90 minutos de la sección 26. Incluye notas del orador en cada lámina. |
 
 ## Cómo publicarlo en GitHub Pages
 
