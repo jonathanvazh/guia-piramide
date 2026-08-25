@@ -13,6 +13,10 @@ Esta no es una síntesis del libro de Barbara Minto. Es una guía de aplicación
 
 Está pensada para leerse por cuenta propia y también para trabajarse en equipo. La Parte I es el método; la Parte II lo baja a ocho situaciones concretas que se repiten en cualquier área que depende de otras para producir información y de un centro corporativo para decidir; la Parte III es práctica, incluida una agenda de taller si vas a enseñárselo a tu equipo.
 
+### Sobre los términos en inglés
+
+El método se formuló y se enseña en inglés, y en la mayoría de las organizaciones grandes se conversa en inglés: alguien va a decir "el governing thought" o "ponle un action title" sin traducirlo. Por eso cada concepto aparece con su término original entre paréntesis la primera vez que se usa, y la sección 28 reúne todos en una tabla. Conviene reconocerlos aunque escribas en español.
+
 El método no se aprende leyendo. Se aprende reescribiendo. La sección 24 es una lista de verificación de una página para tener abierta mientras escribes; la 25 es un plan de práctica de 30 días. Si solo vas a usar dos partes de esta guía, que sean esas.
 
 > **Regla que resume la guía completa: si tu lector tiene que llegar al párrafo cuatro para saber qué le estás pidiendo, ya perdiste. La conclusión va primero; todo lo demás existe para sostenerla.**
@@ -31,8 +35,8 @@ El método no se aprende leyendo. Se aprende reescribiendo. La sección 24 es un
 - [6. Construir la pirámide: dos caminos](#6-construir-la-pirámide-dos-caminos)
 - [7. Ordenar las ideas dentro de un grupo](#7-ordenar-las-ideas-dentro-de-un-grupo)
 - [8. Resumir grupos: donde se pierde la mayoría de los documentos](#8-resumir-grupos-donde-se-pierde-la-mayoría-de-los-documentos)
-- [9. Deducción e inducción](#9-deducción-e-inducción)
-- [10. Antes de estructurar: definir bien el problema](#10-antes-de-estructurar-definir-bien-el-problema)
+- [9. Deducción e inducción (deductive and inductive reasoning)](#9-deducción-e-inducción-deductive-and-inductive-reasoning)
+- [10. Antes de estructurar: definir bien el problema (problem definition)](#10-antes-de-estructurar-definir-bien-el-problema-problem-definition)
 - [11. Bajar la pirámide a la página](#11-bajar-la-pirámide-a-la-página)
 - [12. La pirámide en presentaciones](#12-la-pirámide-en-presentaciones)
 - [13. Adaptación al entorno bancario y regulatorio](#13-adaptación-al-entorno-bancario-y-regulatorio)
@@ -40,14 +44,14 @@ El método no se aprende leyendo. Se aprende reescribiendo. La sección 24 es un
 **Parte II — Casos aplicados**
 
 - [14. Tres ejemplos trabajados](#14-tres-ejemplos-trabajados)
-- [15. Calidad de información cuando el dueño del dato es otro](#15-calidad-de-información-cuando-el-dueño-del-dato-es-otro)
+- [15. Calidad de información cuando el dueño del dato es otro (data quality, data ownership)](#15-calidad-de-información-cuando-el-dueño-del-dato-es-otro-data-quality-data-ownership)
 - [16. Conseguir una decisión en una organización global centralizada](#16-conseguir-una-decisión-en-una-organización-global-centralizada)
-- [17. Armar un business case para conseguir presupuesto](#17-armar-un-business-case-para-conseguir-presupuesto)
+- [17. Armar un business case para conseguir presupuesto (funding request)](#17-armar-un-business-case-para-conseguir-presupuesto-funding-request)
 - [18. Conversación difícil hacia abajo: pedir a alguien de tu equipo que cambie una actitud](#18-conversación-difícil-hacia-abajo-pedir-a-alguien-de-tu-equipo-que-cambie-una-actitud)
 - [19. Conversación difícil hacia arriba: cuando la conducta problemática es la de tu jefe](#19-conversación-difícil-hacia-arriba-cuando-la-conducta-problemática-es-la-de-tu-jefe)
-- [20. Estructurar un no](#20-estructurar-un-no)
-- [21. Traspasar un proyecto o un sistema](#21-traspasar-un-proyecto-o-un-sistema)
-- [22. Explicar un tema técnico de forma aterrizada](#22-explicar-un-tema-técnico-de-forma-aterrizada)
+- [20. Estructurar un no (saying no)](#20-estructurar-un-no-saying-no)
+- [21. Traspasar un proyecto o un sistema (handover, knowledge transfer)](#21-traspasar-un-proyecto-o-un-sistema-handover-knowledge-transfer)
+- [22. Explicar un tema técnico de forma aterrizada (pitching to a non-technical audience)](#22-explicar-un-tema-técnico-de-forma-aterrizada-pitching-to-a-non-technical-audience)
 
 **Parte III — Práctica**
 
@@ -56,7 +60,7 @@ El método no se aprende leyendo. Se aprende reescribiendo. La sección 24 es un
 - [25. Plan de práctica de 30 días](#25-plan-de-práctica-de-30-días)
 - [26. Cómo dar esto como taller de equipo](#26-cómo-dar-esto-como-taller-de-equipo)
 - [27. Qué no resuelve este método](#27-qué-no-resuelve-este-método)
-- [28. Glosario de siglas](#28-glosario-de-siglas)
+- [28. Glosario: los términos en su idioma original](#28-glosario-los-términos-en-su-idioma-original)
 
 
 ---
@@ -89,9 +93,9 @@ La pirámide invierte esa secuencia sin sacrificar rigor. La conclusión encabez
 
 ## 3. Anatomía de la pirámide
 
-Una pirámide bien construida cumple tres reglas simultáneamente. Las tres se verifican de manera distinta, así que conviene tenerlas separadas.
+Una pirámide bien construida cumple tres reglas simultáneamente. La idea única del vértice se llama en inglés governing thought o main message: es la afirmación que gobierna todo lo que está debajo. Las tres se verifican de manera distinta, así que conviene tenerlas separadas.
 
-### 3.1 Regla vertical: cada idea resume las que están debajo
+### 3.1 Regla vertical: cada idea resume las que están debajo (vertical relationship)
 
 La idea de un nivel superior debe ser el resumen de las ideas del nivel inmediato inferior. No su título, no su categoría: su resumen. Si borraras el nivel inferior completo, la idea superior debería seguir comunicando el mensaje.
 
@@ -100,13 +104,13 @@ La idea de un nivel superior debe ser el resumen de las ideas del nivel inmediat
 
 La primera versión obliga a leer los tres puntos para saber algo. La segunda ya dice el mensaje; los tres puntos ahora sirven para sustentarlo, que es su función real.
 
-### 3.2 Regla horizontal: las ideas de un mismo nivel son del mismo tipo
+### 3.2 Regla horizontal: las ideas de un mismo nivel son del mismo tipo (horizontal relationship)
 
 Los elementos que cuelgan de una misma idea deben pertenecer a una misma categoría lógica: todas razones, o todos pasos, o todos problemas, o todos criterios. Mezclar una razón con un paso y con una recomendación produce una lista que se siente desordenada aunque cada elemento sea verdadero.
 
 Prueba rápida: intenta ponerle un sustantivo plural al grupo. "Tres razones", "cuatro pasos", "dos restricciones". Si el único sustantivo que funciona es "cosas" o "puntos", el grupo no es homogéneo.
 
-### 3.3 Regla de orden: el grupo sigue una lógica explícita
+### 3.3 Regla de orden: el grupo sigue una lógica explícita (logical order)
 
 Dentro de cada grupo, el orden no puede ser arbitrario. Solo hay tres órdenes legítimos, y cada uno delata el tipo de análisis que hiciste. La sección 7 los desarrolla.
 
@@ -164,7 +168,7 @@ La consecuencia lógica de la complicación. En un documento bien construido no 
 
 #### Respuesta
 
-Tu conclusión. Es la punta de la pirámide y el primer párrafo sustantivo del documento. Debe ser una afirmación con contenido, no una promesa de contenido.
+Tu conclusión, la Answer del patrón. Es la punta de la pirámide —el governing thought— y el primer párrafo sustantivo del documento. Debe ser una afirmación con contenido, no una promesa de contenido.
 
 > "Recomendamos recalibrar con un ajuste conservador transitorio: preserva la fecha regulatoria, cuesta una fracción de la reconstrucción y el impacto en activos ponderados por riesgo es acotado."
 
@@ -189,9 +193,9 @@ El orden S–C–Q–A es el estándar, pero se puede reordenar según lo que se
 
 ## 6. Construir la pirámide: dos caminos
 
-Hay dos formas de llegar a la estructura. Se usan en momentos distintos y ambas son legítimas.
+Hay dos formas de llegar a la estructura, top-down y bottom-up. Se usan en momentos distintos y ambas son legítimas.
 
-### 6.1 De arriba hacia abajo (cuando ya sabes la conclusión)
+### 6.1 De arriba hacia abajo, top-down (cuando ya sabes la conclusión)
 
 1. Escribe el tema del documento en una línea.
 2. Escribe la pregunta que el lector tiene sobre ese tema.
@@ -200,7 +204,7 @@ Hay dos formas de llegar a la estructura. Se usan en momentos distintos y ambas 
 5. Anticipa la siguiente pregunta que tu respuesta genera —típicamente "¿por qué?" o "¿cómo?"— y escribe los tres o cuatro puntos que la contestan.
 6. Repite el paso anterior en cada rama hasta que la siguiente pregunta ya no tenga interés para el lector.
 
-### 6.2 De abajo hacia arriba (cuando tienes hallazgos sueltos)
+### 6.2 De abajo hacia arriba, bottom-up (cuando tienes hallazgos sueltos)
 
 1. Lista todos los puntos que quieres comunicar, sin editar. Uno por renglón.
 2. Identifica las relaciones entre ellos: cuáles son causa de cuáles, cuáles son casos del mismo fenómeno, cuáles son consecuencias.
@@ -216,19 +220,19 @@ En la práctica se usan combinados: bajas desde una hipótesis, tropiezas con ev
 
 Solo existen tres órdenes lógicos. Cualquier otro orden es, en realidad, el orden en que se te ocurrieron las cosas. Elegir conscientemente uno de los tres es también una forma de auditar tu propio análisis: el orden delata qué tipo de razonamiento hiciste.
 
-### 7.1 Orden de proceso (cronológico o causal)
+### 7.1 Orden de proceso: cronológico o causal (time order)
 
 Los elementos son pasos que ocurren uno después de otro, o causas encadenadas. Se usa cuando describes un mecanismo, un flujo o una secuencia de implementación.
 
 Prueba de validez: si intercambias dos elementos, ¿el argumento deja de tener sentido? Si puedes reordenarlos libremente, no era un proceso; era una lista con disfraz de proceso.
 
-### 7.2 Orden estructural (por partes de un todo)
+### 7.2 Orden estructural: por partes de un todo (structural order)
 
 Los elementos son componentes de una estructura: regiones, líneas de negocio, componentes de una fórmula, capas de un sistema. Se usa cuando descompones algo que existe.
 
 Prueba de validez: ¿las partes suman el todo sin traslape? Si no, el corte estructural está mal hecho y arrastra el problema hacia arriba.
 
-### 7.3 Orden de grado (por importancia)
+### 7.3 Orden de grado: por importancia (degree order o ranking order)
 
 Los elementos comparten una propiedad y se ordenan por cuánto la tienen: del más grave al menos grave, del de mayor impacto al de menor. Se usa cuando clasificas o priorizas.
 
@@ -241,7 +245,7 @@ Prueba de validez: ¿existe una métrica, aunque sea cualitativa, que justifique
 
 Este es el punto donde más gente abandona el método sin darse cuenta. Construyen la pirámide, agrupan bien, y luego rotulan cada grupo con una etiqueta vacía. El resultado se ve estructurado y no comunica nada.
 
-### 8.1 Aserciones intelectualmente vacías
+### 8.1 Aserciones intelectualmente vacías (intellectually blank assertions)
 
 Son frases que anuncian la existencia de contenido sin entregarlo. Se reconocen porque el lector no puede hacer nada con ellas.
 
@@ -257,7 +261,7 @@ Son frases que anuncian la existencia de contenido sin entregarlo. Se reconocen 
 - Grupos de acción (pasos, recomendaciones, actividades): la idea superior debe enunciar el resultado que produce ejecutar todos los pasos. No "cuatro acciones para el proyecto", sino "estas cuatro acciones permiten cerrar antes de la fecha regulatoria".
 - Grupos de situación (hallazgos, hechos, evidencias): la idea superior debe enunciar la inferencia que se desprende de todos ellos. No "tres hallazgos de la validación", sino "los tres hallazgos apuntan al mismo origen: la ventana de calibración".
 
-### 8.3 El test del "¿y qué?"
+### 8.3 El test del "¿y qué?" (the So what? test)
 
 Después de escribir cualquier idea de resumen, pregúntate en voz alta: ¿y qué? Si tienes una respuesta, esa respuesta era la idea que debías haber escrito. Repite hasta que la pregunta ya no produzca nada nuevo.
 
@@ -268,7 +272,7 @@ Después de escribir cualquier idea de resumen, pregúntate en voz alta: ¿y qu�
 Este ejercicio es el más rentable de toda la guía y el más incómodo, porque expone cuando en realidad no tienes una conclusión, solo tienes números. Si al hacerlo descubres que no llegas a nada, el problema no es de redacción: es que falta análisis.
 
 
-## 9. Deducción e inducción
+## 9. Deducción e inducción (deductive and inductive reasoning)
 
 Un grupo de ideas se sostiene de una de dos maneras, y conviene saber cuál estás usando porque se resumen distinto.
 
@@ -293,7 +297,7 @@ Es más fácil de seguir, más robusta —si cae un elemento, la conclusión sob
 Regla práctica: inducción en los niveles altos, deducción en los niveles bajos. El lector senior quiere el patrón; el revisor técnico quiere la cadena. Un documento que usa deducción en la punta obliga a todos a leer todo, que es exactamente lo que estás tratando de evitar.
 
 
-## 10. Antes de estructurar: definir bien el problema
+## 10. Antes de estructurar: definir bien el problema (problem definition)
 
 Buena parte de los documentos mal estructurados no tienen un problema de estructura: responden con precisión una pregunta que nadie hizo. Esta sección es el antídoto.
 
@@ -302,14 +306,14 @@ Buena parte de los documentos mal estructurados no tienen un problema de estruct
 Antes de escribir nada, contesta estas cinco cosas por escrito. Toma diez minutos y ahorra reescrituras completas.
 
 1. Punto de partida: ¿cuál era la situación estable, y quién es el actor?
-2. Evento perturbador: ¿qué cambió?
+2. Evento perturbador (disturbing event): ¿qué cambió?
 3. Resultado no deseado: ¿dónde estamos hoy como consecuencia?
 4. Resultado deseado: ¿dónde queremos estar, con qué métrica y para cuándo?
 5. Pregunta: ¿qué es exactamente lo que el lector necesita decidir o saber?
 
 La distancia entre el resultado no deseado y el deseado es tu problema. Si no puedes medir esa distancia, el documento va a flotar. Y si el resultado deseado es "mejorar", no tienes un objetivo, tienes una aspiración.
 
-### 10.2 Árboles de diagnóstico
+### 10.2 Árboles de diagnóstico (diagnostic frameworks)
 
 Cuando la pregunta es "por qué ocurre esto", conviene descomponer el problema en un árbol antes de investigar. Tres formas de construirlo:
 
@@ -317,7 +321,7 @@ Cuando la pregunta es "por qué ocurre esto", conviene descomponer el problema e
 - Por causas posibles: enumera las categorías de causa que podrían producir el efecto observado, y descarta con evidencia. Útil cuando el mecanismo no está claro.
 - Por elementos indeseados: lista lo que no debería estar pasando y rastrea cada uno hasta su origen. Útil en incidentes.
 
-### 10.3 Árboles de decisión lógica
+### 10.3 Árboles de decisión lógica (logic trees)
 
 Cuando la pregunta es "qué hacemos", el árbol no descompone causas sino opciones, con sus criterios de evaluación explícitos. La ventaja frente a un análisis narrativo es que obliga a declarar el criterio antes de conocer el resultado, que es la única forma honesta de comparar alternativas.
 
@@ -326,13 +330,13 @@ Cuando la pregunta es "qué hacemos", el árbol no descompone causas sino opcion
 
 La estructura mental tiene que hacerse visible. Un documento bien pensado y mal maquetado se lee igual de mal que uno mal pensado.
 
-### 11.1 Encabezados que son ideas, no temas
+### 11.1 Encabezados que son ideas, no temas (message titles)
 
 Un encabezado debe poder leerse solo y comunicar algo. "Metodología" es un tema. "La recalibración usa una ventana ampliada a doce años" es una idea. Si el lector recorre únicamente tus encabezados, debería quedarse con el argumento completo. Ese es el estándar.
 
 Corolario incómodo: eso significa que un documento de veinte páginas debería tener unos ocho a doce encabezados con contenido real, no cuarenta rótulos genéricos.
 
-### 11.2 Resumen ejecutivo
+### 11.2 Resumen ejecutivo (executive summary)
 
 No es una versión abreviada del documento ni una lista de secciones. Es la punta de la pirámide más el primer nivel de soporte, en prosa. Cuatro a ocho renglones. Si el lector solo lee eso, debe poder tomar la decisión y explicarla a un tercero.
 
@@ -353,14 +357,14 @@ Al pasar de un bloque a otro, el lector necesita saber dónde está parado. Una 
 
 La adaptación a láminas es donde el método rinde más en tu contexto, porque un comité no lee: escucha y ve.
 
-### 12.1 El título de la lámina es el mensaje
+### 12.1 El título de la lámina es el mensaje (action title)
 
-La regla es sencilla y casi nadie la aplica: el título de cada lámina es la conclusión de esa lámina, escrita como oración completa. El contenido de la lámina es la evidencia de ese título.
+La regla, conocida como action title, es sencilla y casi nadie la aplica: el título de cada lámina es la conclusión de esa lámina, escrita como oración completa. El contenido de la lámina es la evidencia de ese título.
 
 > Título débil: "Evolución de la mora por cosecha"
 > Título correcto: "Las cosechas posteriores al cambio de política se deterioran 30% más rápido"
 
-Consecuencia práctica: si lees en voz alta únicamente los títulos de tu presentación, en orden, debe salir un argumento completo y coherente. Ese es el mejor diagnóstico que existe de una baraja. Hazlo antes de cada comité; toma noventa segundos.
+Consecuencia práctica: si lees en voz alta únicamente los títulos de tu presentación, en orden, debe salir un argumento completo y coherente: eso es lo que en inglés se llama el storyline de la baraja. Ese es el mejor diagnóstico que existe de una baraja. Hazlo antes de cada comité; toma noventa segundos.
 
 ### 12.2 Una idea por lámina
 
@@ -454,7 +458,7 @@ El método aplica igual en cinco renglones. Un correo de escalamiento bien estru
 Petición primero, contexto después, recomendación explícita, y una consecuencia clara de cada rama. Ningún adorno.
 
 
-## 15. Calidad de información cuando el dueño del dato es otro
+## 15. Calidad de información cuando el dueño del dato es otro (data quality, data ownership)
 
 Es probablemente la situación más frecuente y peor resuelta en un área analítica: dependes de información que produce alguien más, la información llega mal, y tú no tienes autoridad sobre quien la genera. El resultado típico es un correo con una lista de defectos que el área dueña recibe como una acusación, contesta a la defensiva y nadie corrige nada.
 
@@ -480,7 +484,7 @@ La punta correcta no es el defecto. Es la decisión o el entregable que está en
 5. Ofrece la vía de menor esfuerzo. Si puedes entregarles el listado exacto de registros a corregir en vez de pedirles que lo busquen, hazlo. El costo de esa media hora tuya es menor que el de dos semanas de ida y vuelta.
 6. Deja rastro sin tono acusatorio. La documentación es necesaria y no requiere adjetivos: los hechos con fecha bastan, y envejecen mucho mejor si el asunto escala.
 
-### 15.4 La escalera del escalamiento
+### 15.4 La escalera del escalamiento (escalation path)
 
 Escalar no es un castigo ni una traición; es un mecanismo normal cuando dos áreas tienen prioridades distintas. Lo que lo vuelve tóxico es hacerlo por sorpresa. La secuencia limpia tiene tres peldaños y en todos el receptor sabe qué sigue:
 
@@ -539,7 +543,7 @@ Cuando hay doble reporte —línea funcional en el centro y línea de entidad en
 Una página. Petición y decisión solicitada en el primer párrafo. Tres razones. Impacto cuantificado. Fecha en la que la decisión deja de ser útil. Anexos con todo lo demás. Si tu propuesta necesita quince láminas para entenderse, no está lista para el centro; está lista para tu equipo.
 
 
-## 17. Armar un business case para conseguir presupuesto
+## 17. Armar un business case para conseguir presupuesto (funding request)
 
 Un business case es un documento de venta con formato de documento técnico. Quien lo lee ya vio decenas y desarrolló un detector de beneficios inflados. La estructura piramidal ayuda, pero aquí la credibilidad importa tanto como el orden.
 
@@ -579,7 +583,7 @@ Cuando la conducta de una persona daña al equipo, el costo de no tener la conve
 
 Si al llenar las tres columnas descubres que solo tienes impresiones y ningún hecho, el problema puede ser real de todos modos —pero necesitas observar primero. Una conversación basada en percepciones se convierte en discusión sobre si la percepción es justa, y ahí no se llega a nada.
 
-### 18.2 Conducta, no identidad
+### 18.2 Conducta, no identidad (observable behaviour, not traits)
 
 La distinción es la que decide el resultado. Una crítica a la conducta admite corrección; una crítica a la identidad solo admite defensa, porque estás diciéndole a la persona quién es.
 
@@ -639,7 +643,7 @@ Fíjate en lo que no tiene: ningún adjetivo sobre él, ninguna generalización,
 - Escalar por encima de tu jefe o ir a recursos humanos tiene un costo real y a menudo irreversible en la relación. Es la ruta correcta ante conductas que cruzan una línea de ética o de trato, y es una ruta cara para problemas de estilo de gestión. Distinguir cuál es cuál, antes de actuar, es parte del trabajo.
 
 
-## 20. Estructurar un no
+## 20. Estructurar un no (saying no)
 
 Decir que no mal es una de las fuentes más constantes de sobrecarga. Un no envuelto en tres párrafos de contexto se lee como un "déjame ver" y regresa la semana siguiente convertido en compromiso.
 
@@ -671,7 +675,7 @@ El no va primero, en la primera oración, sin adornos previos. Después la razó
 > Si la sensibilidad es indispensable para el jueves, necesitaríamos mover el ejercicio regulatorio, y eso sí requiere tu visto bueno."
 
 
-## 21. Traspasar un proyecto o un sistema
+## 21. Traspasar un proyecto o un sistema (handover, knowledge transfer)
 
 Casi todos los traspasos se documentan mal por la misma razón: quien entrega documenta lo que sabe, no lo que el otro va a necesitar. Y lo que el otro va a necesitar es, sobre todo, lo que tú ya no notas porque lo tienes automatizado en la cabeza.
 
@@ -705,7 +709,7 @@ Cuatro etapas, cada una con al menos un ciclo real. Ninguna se salta aunque el r
 Un manual de ochenta páginas no se lee. Lo que se usa es un documento de operación corto —cinco a diez páginas— más los archivos técnicos donde estén. Si tienes poco tiempo, escribe primero el apartado de supuestos tácitos y el de fallas frecuentes: son los que nadie más puede escribir.
 
 
-## 22. Explicar un tema técnico de forma aterrizada
+## 22. Explicar un tema técnico de forma aterrizada (pitching to a non-technical audience)
 
 El malentendido de fondo es creer que simplificar es quitar rigor. No lo es. Simplificar bien es cambiar el nivel de abstracción sin decir nada falso, y es más difícil que explicar en detalle porque exige entender qué parte del detalle es prescindible para esa audiencia.
 
@@ -841,11 +845,62 @@ Vale la pena ser explícito sobre los límites, porque el método se vende a vec
 Con esas cuatro advertencias en mente, sigue siendo, en mi opinión, el mayor retorno disponible por hora invertida para alguien técnicamente sólido cuyo cuello de botella es que el contenido no llega ordenado a quien decide.
 
 
-## 28. Glosario de siglas
+## 28. Glosario: los términos en su idioma original
+
+El método circula en inglés dentro de organizaciones globales. Esta tabla junta los términos que van a aparecer en una conversación de trabajo, para que se reconozcan sin traducir.
+
+### Siglas
 
 | Sigla | Nombre completo | Qué es |
 | --- | --- | --- |
 | SCQA | Situation, Complication, Question, Answer | Patrón de introducción: situación, complicación, pregunta, respuesta. |
 | MECE | Mutually Exclusive, Collectively Exhaustive | Criterio de calidad de un agrupamiento: sin traslapes y sin huecos. |
 | BLUF | Bottom Line Up Front | Convención de escritura: la conclusión en el primer renglón. |
+| SCR | Situation, Complication, Resolution | Variante de tres partes del mismo patrón de introducción. |
+
+### Términos del método
+
+| En esta guía | Término original | Qué nombra |
+| --- | --- | --- |
+| Punta de la pirámide | Governing thought / main message | La afirmación única que gobierna todo el documento. |
+| Idea de resumen | Summary statement | La frase que resume un grupo de ideas y sube un nivel. |
+| Regla vertical | Vertical relationship | Cada idea responde la pregunta que provoca la de arriba. |
+| Regla horizontal | Horizontal relationship | Las ideas de un mismo nivel son del mismo tipo lógico. |
+| De arriba hacia abajo | Top-down | Construir desde la conclusión, cuando ya la tienes. |
+| De abajo hacia arriba | Bottom-up | Construir agrupando hallazgos sueltos hasta llegar a la conclusión. |
+| Orden de proceso | Time order | Los elementos son pasos o causas encadenadas. |
+| Orden estructural | Structural order | Los elementos son partes de un todo. |
+| Orden de grado | Degree order / ranking order | Los elementos se ordenan por importancia o magnitud. |
+| Aserción vacía | Intellectually blank assertion | Frase que anuncia contenido sin entregarlo. |
+| Test del "¿y qué?" | So what? test | Preguntar hasta que la idea tenga contenido accionable. |
+| Evento perturbador | Disturbing event | Lo que rompió la situación estable y motiva el documento. |
+| Resultado no deseado / deseado | Undesired result (R1) / desired result (R2) | Los dos extremos que definen el problema. |
+| Árbol de diagnóstico | Diagnostic framework | Descomposición para encontrar la causa. |
+| Árbol de decisión lógica | Logic tree | Descomposición de opciones con criterios explícitos. |
+| Encabezado que es idea | Message title | Encabezado que comunica la conclusión, no el tema. |
+| Título de lámina | Action title | Título de diapositiva escrito como oración con conclusión. |
+| Hilo de la presentación | Storyline | El argumento que se lee corrido solo con los títulos. |
+| Resumen ejecutivo | Executive summary | La punta más el primer nivel de soporte, en prosa. |
+
+### Términos del entorno de trabajo
+
+| En esta guía | Término original | Qué nombra |
+| --- | --- | --- |
+| Dueño del dato | Data owner | Quien responde formalmente por la calidad de una fuente. |
+| Ruta de escalamiento | Escalation path | La secuencia acordada para subir un tema sin quemar la relación. |
+| Caso de negocio | Business case | El documento con el que se pide presupuesto. |
+| Escenario base | Base case / do-nothing option | Qué pasa si no se aprueba nada. La comparación real. |
+| Costo de oportunidad | Opportunity cost | Lo que se deja de hacer si esto se aprueba. |
+| Fases con puertas de decisión | Stage gates | Dividir la inversión en tramos con revisión entre uno y otro. |
+| Cerrar antes del foro | Pre-wire / socialise | Conversar el tema con cada decisor antes del comité. |
+| Excepción de política | Policy exception / waiver | Permiso formal para apartarse de un estándar. |
+| Conversación difícil | Difficult conversation | La que se pospone y cuesta más por posponerse. |
+| Intención frente a efecto | Intent vs impact | Distinguir lo que alguien quiso de lo que produjo. |
+| Retroalimentación en sándwich | Feedback sandwich | Elogio-crítica-elogio. No funciona. |
+| Traspaso | Handover / knowledge transfer | Transferencia de un sistema o proyecto a otra persona. |
+| Acompañamiento | Shadowing | Etapa en que el receptor observa antes de ejecutar. |
+| Manual de operación | Runbook | Documento con los procedimientos rutinarios y de incidente. |
+| Deuda técnica | Technical debt | Arreglos temporales que siguen ahí y acumulan costo. |
+| Maldición del conocimiento | Curse of knowledge | Dar por obvio lo que a ti te costó años entender. |
+| Orden de magnitud | Order of magnitude | La escala del número, antes que el número exacto. |
 
