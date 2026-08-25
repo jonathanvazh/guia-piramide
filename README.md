@@ -4,7 +4,7 @@ Guía práctica para estructurar argumentos ante audiencias senior: conclusión 
 
 Está pensada para leerse por cuenta propia y para trabajarse en equipo. La sección 26 trae una agenda de taller de 90 minutos.
 
-**Sitio publicado:** https://USUARIO.github.io/REPO/
+**Sitio publicado:** https://jonathanvazh.github.io/REPO/
 
 ## Contenido del repositorio
 
