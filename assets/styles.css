@@ -78,7 +78,7 @@ body {
   transition: background .15s ease, color .15s ease;
   white-space: nowrap;
 }
-.langswitch::before { content: "\\2637\\00a0\\00a0"; color: var(--gold); }
+.langswitch::before { content: "⇄"; color: var(--gold); margin-right: .5em; }
 .langswitch:hover { background: rgba(255,255,255,.1); color: #fff; }
 
 .hero__eyebrow {
