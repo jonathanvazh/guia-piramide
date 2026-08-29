@@ -61,6 +61,7 @@ El método no se aprende leyendo. Se aprende reescribiendo. La sección 24 es un
 - [26. Cómo dar esto como taller de equipo](#26-cómo-dar-esto-como-taller-de-equipo)
 - [27. Qué no resuelve este método](#27-qué-no-resuelve-este-método)
 - [28. Glosario: los términos en su idioma original](#28-glosario-los-términos-en-su-idioma-original)
+- [29. Fuentes y atribución](#29-fuentes-y-atribución)
 
 
 ---
@@ -903,4 +904,28 @@ El método circula en inglés dentro de organizaciones globales. Esta tabla junt
 | Deuda técnica | Technical debt | Arreglos temporales que siguen ahí y acumulan costo. |
 | Maldición del conocimiento | Curse of knowledge | Dar por obvio lo que a ti te costó años entender. |
 | Orden de magnitud | Order of magnitude | La escala del número, antes que el número exacto. |
+
+
+## 29. Fuentes y atribución
+
+Este documento es material original: el texto, los ejemplos y los casos fueron escritos para esta guía y no reproducen contenido de ninguna de las obras citadas. Lo que sí toma de ellas son los métodos, que pertenecen a sus autores y se acreditan aquí.
+
+### El método central
+
+La estructura piramidal, el patrón SCQA, el criterio MECE, la distinción entre orden de proceso, estructural y de grado, y el marco de definición del problema provienen de The Pyramid Principle: Logic in Writing and Thinking, de Barbara Minto (Pearson / Financial Times). Quien quiera la formulación original y sus ejemplos debe acudir al libro; esta guía no lo sustituye.
+
+### Otras fuentes
+
+| Idea | Origen |
+| --- | --- |
+| La distinción entre conducta e identidad, y entre intención y efecto, en las secciones 18 y 19 | Difficult Conversations: How to Discuss What Matters Most, de Douglas Stone, Bruce Patton y Sheila Heen (Harvard Negotiation Project). |
+| El diagnóstico como primer componente de una decisión, en la sección 17 | Good Strategy Bad Strategy, de Richard Rumelt. |
+| La maldición del conocimiento, en la sección 22 | Concepto de economía conductual acuñado por Camerer, Loewenstein y Weber, y popularizado por Chip y Dan Heath en Made to Stick. |
+| El hábito de preguntar antes de resolver, en el enfoque de las conversaciones | The Coaching Habit, de Michael Bungay Stanier. |
+
+### Sobre los ejemplos
+
+Todos los ejemplos son inventados. Las cifras, los portafolios, los modelos, los acreditados y las situaciones descritas no corresponden a ninguna institución concreta, y cualquier parecido con un caso real es consecuencia de que estos problemas se repiten en todas partes.
+
+Esta guía se comparte sin fines comerciales para uso de equipos. Si alguien la encuentra útil, el mejor gesto hacia los autores citados es comprar sus libros.
 

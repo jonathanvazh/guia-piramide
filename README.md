@@ -1,47 +1,42 @@
 # El Principio de la Pirámide — guía de trabajo
 
-Guía práctica para estructurar argumentos ante audiencias senior: conclusión primero, SCQA, MECE, y ocho casos aplicados al trabajo diario de un área analítica (calidad de datos que produce otro, decisiones en organizaciones centralizadas, business cases, conversaciones difíciles, traspasos, explicación de temas técnicos).
+Guía de aplicación para estructurar argumentos ante audiencias senior: conclusión primero, SCQA, MECE y ocho casos aplicados al trabajo cotidiano de un área analítica. Disponible en español e inglés.
 
-Está pensada para leerse por cuenta propia y para trabajarse en equipo. La sección 26 trae una agenda de taller de 90 minutos.
+**Sitio publicado:** https://USUARIO.github.io/REPO/ · [English version](https://USUARIO.github.io/REPO/en.html)
 
-**Sitio publicado:** https://jonathanvazh.github.io/guia-piramide/
+---
 
-## Contenido del repositorio
+## Qué contiene
 
 | Archivo | Qué es |
 |---|---|
-| `index.html` | El sitio completo: todo el texto de la guía con navegación por secciones. Sin dependencias ni compilación. |
+| `index.html` | El sitio en español, con navegación por secciones. |
+| `en.html` | El sitio en inglés. Los dos se enlazan entre sí desde la portada. |
 | `assets/styles.css` | Los estilos del sitio. |
 | `assets/app.js` | El menú de contenido en móvil y el resaltado de la sección que estás leyendo. |
-| `guia.md` | El texto completo en Markdown. Útil para leer en GitHub, editar y ver diferencias entre versiones. |
-| `Guia-Principio-Piramide.pdf` | Versión imprimible. |
-| `Guia-Principio-Piramide.docx` | Versión editable en Word. |
-| `Taller-Principio-Piramide.pptx` | Deck de 17 láminas para facilitar el taller de 90 minutos de la sección 26. Incluye notas del orador en cada lámina. |
+| `guia.md` / `guide.md` | El texto completo en Markdown, para leer dentro de GitHub o reutilizar. |
+| `Guia-Principio-Piramide.pdf` / `Guide-Pyramid-Principle.pdf` | La guía completa en PDF. |
+| `Guia-Principio-Piramide.docx` / `Guide-Pyramid-Principle.docx` | Versión editable en Word. |
+| `Taller-Principio-Piramide.pptx` / `Workshop-Pyramid-Principle.pptx` | Deck de 17 láminas para facilitar el taller de 90 minutos de la sección 26, con notas del orador. |
 
-## Cómo publicarlo en GitHub Pages
+## Estructura de la guía
 
-1. Crea un repositorio nuevo y sube todos estos archivos a la raíz.
-2. En el repositorio, entra a **Settings → Pages**.
-3. En *Source*, elige **Deploy from a branch**; en *Branch*, elige `main` y la carpeta `/ (root)`. Guarda.
-4. Espera un par de minutos. El sitio queda en `https://USUARIO.github.io/REPO/`.
-5. Actualiza el enlace de arriba en este README.
+**Parte I — El método.** Por qué la pirámide, sus tres reglas, MECE, el patrón SCQA, los dos caminos de construcción, los tres órdenes legítimos, el test del "¿y qué?", deducción e inducción, definición del problema, y cómo bajarlo a la página y a una presentación.
 
-El archivo `.nojekyll` está incluido para que GitHub publique los archivos tal cual, sin procesarlos.
+**Parte II — Casos aplicados.** Ocho situaciones recurrentes, cada una con su estructura y un ejemplo trabajado: calidad de información cuando el dueño del dato es otro, conseguir una decisión en una organización centralizada, armar un business case, conversaciones difíciles hacia abajo y hacia arriba, estructurar un no, traspasar un proyecto, y explicar temas técnicos de forma aterrizada.
 
-## Cómo editar
+**Parte III — Práctica.** Errores frecuentes, lista de verificación, plan de 30 días, agenda de taller de equipo, límites del método, glosario y fuentes.
 
-Para cambios de texto, edita `index.html` directamente: no hay plantillas ni proceso de compilación, el texto está en el HTML. Si cambias algo, actualiza también `guia.md` para que las dos versiones no se separen.
+## Atribución
 
-Para cambios de aspecto, edita `assets/styles.css`. Los colores están declarados como variables al inicio del archivo.
+El método —estructura piramidal, SCQA, MECE, los órdenes de agrupamiento y el marco de definición del problema— es de **Barbara Minto**, *The Pyramid Principle: Logic in Writing and Thinking*. Esta guía no lo reproduce ni lo sustituye: es material original de aplicación, con texto y ejemplos propios. La sección 29 acredita todas las fuentes, incluidas *Difficult Conversations* (Stone, Patton y Heen), *Good Strategy Bad Strategy* (Rumelt) y *The Coaching Habit* (Bungay Stanier).
 
-Los archivos PDF y Word son copias derivadas; si el texto cambia de forma importante, conviene regenerarlos o retirarlos del repositorio en lugar de dejar versiones desalineadas.
+Todos los ejemplos son inventados. Las cifras, portafolios, modelos y situaciones no corresponden a ninguna institución concreta.
 
-## Sobre las fuentes
+## Editar
 
-El método es de Barbara Minto, expuesto originalmente en *The Pyramid Principle: Logic in Writing and Thinking*. Esta guía **no reproduce el libro**: la organización, la redacción y todos los ejemplos son originales, y varias secciones (los casos aplicados de la Parte II, el taller de la Parte III) no forman parte del material original. Si el método te resulta útil, el libro sigue siendo la fuente primaria.
-
-Los ejemplos usan cifras y situaciones ilustrativas. No contienen información de ninguna institución.
+El texto vive en el HTML: no hay plantillas ni proceso de compilación. Para cambios de texto edita `index.html` o `en.html` directamente, y actualiza el Markdown correspondiente para que las versiones no se separen. Para cambios de aspecto edita `assets/styles.css`; los colores están declarados como variables al inicio del archivo.
 
 ## Licencia
 
-Texto bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es): puedes copiarlo, adaptarlo y usarlo, incluso comercialmente, siempre que des atribución. Ver `LICENSE`.
+Texto bajo [CC BY 4.0](LICENSE): uso libre, incluido el comercial, con atribución. La licencia cubre este texto, no las obras citadas.

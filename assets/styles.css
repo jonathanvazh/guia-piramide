@@ -63,6 +63,24 @@ body {
 }
 .hero__inner { max-width: var(--shell); margin: 0 auto; }
 
+.hero__top {
+  display: flex; align-items: baseline; justify-content: space-between;
+  gap: 1rem; margin-bottom: 1.1rem;
+}
+.hero__top .hero__eyebrow { margin: 0; }
+
+.langswitch {
+  font-family: var(--mono);
+  font-size: .72rem; letter-spacing: .12em; text-transform: uppercase;
+  color: #C6CFE2; text-decoration: none;
+  padding: .38rem .8rem; border-radius: 2px;
+  box-shadow: inset 0 0 0 1px rgba(255,255,255,.28);
+  transition: background .15s ease, color .15s ease;
+  white-space: nowrap;
+}
+.langswitch::before { content: "\\2637\\00a0\\00a0"; color: var(--gold); }
+.langswitch:hover { background: rgba(255,255,255,.1); color: #fff; }
+
 .hero__eyebrow {
   font-family: var(--mono);
   font-size: .72rem; letter-spacing: .22em; text-transform: uppercase;
