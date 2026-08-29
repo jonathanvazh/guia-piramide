@@ -2,7 +2,7 @@
 
 Guía de aplicación para estructurar argumentos ante audiencias senior: conclusión primero, SCQA, MECE y ocho casos aplicados al trabajo cotidiano de un área analítica. Disponible en español e inglés.
 
-**Sitio publicado:** https://USUARIO.github.io/REPO/ · [English version](https://USUARIO.github.io/REPO/en.html)
+**Sitio publicado:** https://jonathanvazh.github.io/guia-piramide/ · [English version](https://jonathanvazh.github.io/guia-piramide/en.html)
 
 ---
 
